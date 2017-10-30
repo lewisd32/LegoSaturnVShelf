@@ -15,7 +15,7 @@ The model ([SaturnVShelf.lxf](SaturnVShelf.lxf)) can be opened with
 4.3.
 
 The included BOM ([SaturnVShelf-BOM.xlsx](SaturnVShelf-BOM.xlsx)) exported by LDD lists the pieces
-needed. You can use this to place an order most of the parts from [Pick-A-Brick](https://shop.lego.com/Pick-a-Brick).
+needed. You can order most of the parts from [Pick-A-Brick](https://shop.lego.com/Pick-a-Brick).
 The remainder can be had from [BrickLink](bricklink.com).
 
 When I ordered pieces for this (June 2017) everything was available on Pick-A-Brick except for the
